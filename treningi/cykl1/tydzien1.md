@@ -4,7 +4,7 @@ Hantle 2 x 3kg
 
 Przerwy po około 45 sekund pomiędzy ćwiczeniami
 
-### Rozgrzewka
+[Rozgrzewka](rozgrzewka.md)
 
 kręcenie ramionami do przodu **5x** i do tyłu **5x**
 

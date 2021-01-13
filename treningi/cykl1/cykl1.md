@@ -1,4 +1,7 @@
 # Cykl 1
+
+[Rozgrzewka](rozgrzewka.md)
+
 [Tydzien 1](tydzien1.md)
 
 [Tydzien 2](tydzien2.md)
