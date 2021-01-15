@@ -1,8 +1,8 @@
 # Cykl 1 - Tydzien 1
 
-Hantle 2 x 3kg
+Sprzęt: 2 Hantle
 
-Przerwy po około 45 sekund pomiędzy ćwiczeniami
+Przerwy: po około 45 sekund pomiędzy ćwiczeniami
 
 [Rozgrzewka](rozgrzewka.md)
 
