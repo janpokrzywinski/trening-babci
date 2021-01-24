@@ -15,3 +15,7 @@ przeciąganie szalika za plecy i do przodu nad głową **5x**
 przysiad (bez ciężaru) **5x**
 
 pochylenie do przodu, dotknąć podłogi **5x**
+
+wymach pojedynczo nogą **5x** na stronę
+
+kręcenie nadgarstkami nad głową **5x** na stronę

@@ -2,7 +2,7 @@
 
 Sprzęt: 2 Hantle
 
-Przerwy: po około 45 sekund pomiędzy ćwiczeniami
+Przerwy: 30 sekund pomiędzy ćwiczeniami
 
 [Rozgrzewka](rozgrzewka.md)
 
