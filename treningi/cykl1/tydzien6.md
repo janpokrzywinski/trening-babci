@@ -19,7 +19,7 @@ Przerwy: po około 30 sekund pomiędzy ćwiczeniami
 - podnoszenie bioder  
 - wycisk hantli z podłogi
 
-**3x** na stronę "martwy robak"
+**4x** na stronę "martwy robak"
 
 ##### Na czworaka:
 
