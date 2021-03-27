@@ -21,7 +21,7 @@ Przerwy: po około 30 sekund pomiędzy ćwiczeniami
 
 **3x** Superset:
 
-- **8x** podnoszenie bioder  
+- **7x** podnoszenie bioder  
 - **7x** wycisk hantli z podłogi
 - **4x** na stronę "martwy robak"
 
@@ -29,7 +29,7 @@ Przerwy: po około 30 sekund pomiędzy ćwiczeniami
 
 **1x** Superset:
 
-- noga do hydrantu **5x** na przemian noga
+- noga do hydrantu **4x** na przemian noga
 - **1x** pompka na kolanach
 
 **3x** Superset:
