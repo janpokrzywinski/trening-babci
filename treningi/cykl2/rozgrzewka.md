@@ -2,20 +2,18 @@
 
 ### W dowolnej kolejności
 
-kręcenie ramionami do przodu **10x** i do tyłu **10x**
+**10x** kręcenie ramionami w obie strony
 
-kręcenie biodrami **10x** w każdą stronę
+**10x** kręcenie biodrami w obie strony
 
-obroty tułowia z ramionami na boki, zgiętymi w łokciu **10x**
+**10x** obroty tułowia
 
-pojedyncza noga do góry i kolano na bok **5x** na stronę
+**5x** noga do góry i kolano na bok
 
-przeciąganie szalika za plecy i do przodu nad głową **5x**
+**5x** przeciąganie taśmy nad głową
 
-przysiad (bez ciężaru) **5x**
+**5x** przysiad (bez ciężaru)
 
-pochylenie do przodu, dotknąć podłogi **5x**
+**5x** pochylenie do podłogi
 
-wymach pojedynczo nogą **5x** na stronę
-
-kręcenie nadgarstkami nad głową **5x** na stronę
+**5x** kręcenie nadgarstkami nad głową

@@ -29,5 +29,5 @@ Przerwy: po około 30 sekund pomiędzy ćwiczeniami
 
 **4x** Superset:
 
-- noga do hydrantu **4x** na przemian noga
+- **4x** noga do hydrantu
 - **2x** pompka na kolanach
