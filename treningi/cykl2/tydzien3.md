@@ -1,4 +1,4 @@
-# Cykl 2 - Tydzien 2
+# Cykl 2 - Tydzien 3
 
 Sprzęt: 2 Hantle
 
@@ -10,12 +10,11 @@ Przerwy: po około 30 sekund pomiędzy ćwiczeniami
 
 ##### Na stojąco:
 
-**1 x 6** przysiady z hantlami (farmerskie)
-**1 x 7** przysiady z hantlami (farmerskie)
+**2 x 7** przysiady z hantlami (farmerskie)
 
 **1x** Superset:
 
-- **8x** przysiady goblet z jednym hantlem
+- **9x** przysiady goblet z jednym hantlem
 - **4x** pochylone wiosłowanie hantlem
 
 ##### Na leżąco:
@@ -24,11 +23,11 @@ Przerwy: po około 30 sekund pomiędzy ćwiczeniami
 
 - **6x** podnoszenie bioder  
 - **6x** wycisk hantli z podłogi
-- **3x** na stronę "martwy robak"
+- **4x** na stronę "martwy robak"
 
 ##### Na czworaka:
 
 **3x** Superset:
 
-- noga do hydrantu **3x** na przemian noga
+- noga do hydrantu **4x** na przemian noga
 - **1x** pompka na kolanach
