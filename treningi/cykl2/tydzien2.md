@@ -11,6 +11,7 @@ Przerwy: po około 30 sekund pomiędzy ćwiczeniami
 ##### Na stojąco:
 
 **1 x 6** przysiady z hantlami (farmerskie)
+
 **1 x 7** przysiady z hantlami (farmerskie)
 
 **1x** Superset:

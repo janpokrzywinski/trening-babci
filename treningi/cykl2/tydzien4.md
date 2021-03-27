@@ -19,10 +19,10 @@ Przerwy: po około 30 sekund pomiędzy ćwiczeniami
 
 ##### Na leżąco:
 
-**3x** Superset:
+**2x** Superset:
 
-- **5x** podnoszenie bioder  
-- **5x** wycisk hantli z podłogi
+- **8x** podnoszenie bioder  
+- **8x** wycisk hantli z podłogi
 - **4x** na stronę "martwy robak"
 
 ##### Na czworaka:

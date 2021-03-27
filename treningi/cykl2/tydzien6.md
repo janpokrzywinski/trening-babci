@@ -14,7 +14,7 @@ Przerwy: po około 30 sekund pomiędzy ćwiczeniami
 
 **2x** Superset:
 
-- **8x** przysiady goblet z jednym hantlem
+- **9x** przysiady goblet z jednym hantlem
 - **4x** pochylone wiosłowanie hantlem
 
 ##### Na leżąco:
